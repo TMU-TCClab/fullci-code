@@ -1,0 +1,8 @@
+TODO list
+====
+- Direct algorithm when computing sigma vector
+- Davidson diagonalization
+- Excited state
+- Reduced density matrix
+- User-friendly input/output
+- Re-design as a library
